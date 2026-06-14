@@ -1,33 +1,64 @@
-<h1 align="center">Hi, I'm Rithika 👋</h1>
-
-<h3 align="center">Robotics & Controls Engineer | MS MechE @ Columbia University</h3>
 
 <p align="center">
-  Building algorithms for motion planning, SLAM, and model predictive control.<br/>
-  Currently exploring nonlinear control and autonomous navigation. I can design, build and code a robot! 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Rithika%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Robotics%20%26%20Controls%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MS+MechE+%40+Columbia+University;Motion+Planning+%7C+SLAM+%7C+Model+Predictive+Control;Turning+equations+into+moving+robots+%F0%9F%A4%96" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://rithika-reddy.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/rithika-reddy-rondla/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rithikarondla16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Froststar16&style=for-the-badge&color=58A6FF&label=Profile+Views" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=2&section=header" width="100%"/>
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Froststar16/Froststar16/main/mascot-divider.svg" width="100%"/>
 </p>
 
 ### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-FF6F00?style=flat-square&logo=mathworks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Languages & Core Tools**
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,java,js,nodejs,git,latex,linux&theme=dark" />
+</p>
+
+**Robotics, Controls & ML**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/MuJoCo-1a1a2e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Gazebo-FF8C00?style=flat-square" />
+  <img src="https://img.shields.io/badge/PyBullet-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Webots-2b6cb0?style=flat-square" />
+  <img src="https://img.shields.io/badge/MPC-1e3c72?style=flat-square" />
+  <img src="https://img.shields.io/badge/LQR-2a5298?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-512BD4?style=flat-square" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,sklearn,arduino,raspberrypi&theme=dark" />
+</p>
+
+**Design & CAD**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SolidWorks-D81E05?style=flat-square&logo=solidworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fusion_360-FF6600?style=flat-square&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autocad&logoColor=white" />
+  <img src="https://img.shields.io/badge/Simulink-FF6F00?style=flat-square&logo=mathworks&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=2&section=header" width="100%"/>
+</p>
 
 ### 🚀 Featured Projects
 
@@ -76,4 +107,8 @@ Nonlinear Model Predictive Control simulator for Virtual Train Coupling — desi
 
 ---
 
-<p align="center"><i>📍 New York City • Open to robotics & controls internship/full-time opportunities</i></p>
+<p align="center"><i>📍 New York City • 🔍 Open to robotics & controls internships (Fall 2026) and full-time roles starting 2027</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</p>
