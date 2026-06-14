@@ -1,0 +1,93 @@
+<svg width="100%" viewBox="0 0 640 240" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Pixel robot mascot says: She builds robots, and I am one of them</title>
+<ellipse cx="124.0" cy="222" rx="80" ry="10" fill="#000000" opacity="0.12"/>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -6; 0 0" dur="2s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1" />
+<rect x="122" y="18" width="4" height="22" fill="#102A43"/>
+<circle cx="124" cy="12" r="7" fill="#FF5252">
+<animate attributeName="fill" values="#FF5252;#FFD54F;#FF5252" dur="1.2s" repeatCount="indefinite"/>
+</circle>
+<rect x="96" y="40" width="14" height="14" fill="#4DD0E1"/>
+<rect x="110" y="40" width="14" height="14" fill="#4DD0E1"/>
+<rect x="124" y="40" width="14" height="14" fill="#4DD0E1"/>
+<rect x="138" y="40" width="14" height="14" fill="#4DD0E1"/>
+<rect x="82" y="54" width="14" height="14" fill="#4DD0E1"/>
+<rect x="96" y="54" width="14" height="14" fill="#4DD0E1"/>
+<rect x="110" y="54" width="14" height="14" fill="#4DD0E1"/>
+<rect x="124" y="54" width="14" height="14" fill="#4DD0E1"/>
+<rect x="138" y="54" width="14" height="14" fill="#4DD0E1"/>
+<rect x="152" y="54" width="14" height="14" fill="#4DD0E1"/>
+<rect x="68" y="68" width="14" height="14" fill="#4DD0E1"/>
+<rect x="96" y="68" width="14" height="14" fill="#FFEE58">
+<animate attributeName="height" values="14;14;2;14" keyTimes="0;0.9;0.95;1" dur="3s" repeatCount="indefinite"/>
+<animate attributeName="y" values="68;68;80;68" keyTimes="0;0.9;0.95;1" dur="3s" repeatCount="indefinite"/>
+</rect>
+<rect x="138" y="68" width="14" height="14" fill="#FFEE58">
+<animate attributeName="height" values="14;14;2;14" keyTimes="0;0.9;0.95;1" dur="3s" repeatCount="indefinite"/>
+<animate attributeName="y" values="68;68;80;68" keyTimes="0;0.9;0.95;1" dur="3s" repeatCount="indefinite"/>
+</rect>
+<rect x="166" y="68" width="14" height="14" fill="#4DD0E1"/>
+<rect x="68" y="82" width="14" height="14" fill="#4DD0E1"/>
+<rect x="166" y="82" width="14" height="14" fill="#4DD0E1"/>
+<rect x="68" y="96" width="14" height="14" fill="#4DD0E1"/>
+<rect x="82" y="96" width="14" height="14" fill="#4DD0E1"/>
+<rect x="96" y="96" width="14" height="14" fill="#4DD0E1"/>
+<rect x="110" y="96" width="14" height="14" fill="#4DD0E1"/>
+<rect x="124" y="96" width="14" height="14" fill="#4DD0E1"/>
+<rect x="138" y="96" width="14" height="14" fill="#4DD0E1"/>
+<rect x="152" y="96" width="14" height="14" fill="#4DD0E1"/>
+<rect x="166" y="96" width="14" height="14" fill="#4DD0E1"/>
+<rect x="68" y="110" width="14" height="14" fill="#4DD0E1"/>
+<rect x="96" y="110" width="14" height="14" fill="#102A43"/>
+<rect x="110" y="110" width="14" height="14" fill="#102A43"/>
+<rect x="124" y="110" width="14" height="14" fill="#102A43"/>
+<rect x="138" y="110" width="14" height="14" fill="#102A43"/>
+<rect x="166" y="110" width="14" height="14" fill="#4DD0E1"/>
+<rect x="54" y="124" width="14" height="14" fill="#4DD0E1"/>
+<rect x="68" y="124" width="14" height="14" fill="#4DD0E1"/>
+<rect x="82" y="124" width="14" height="14" fill="#4DD0E1"/>
+<rect x="96" y="124" width="14" height="14" fill="#4DD0E1"/>
+<rect x="110" y="124" width="14" height="14" fill="#4DD0E1"/>
+<rect x="124" y="124" width="14" height="14" fill="#4DD0E1"/>
+<rect x="138" y="124" width="14" height="14" fill="#4DD0E1"/>
+<rect x="152" y="124" width="14" height="14" fill="#4DD0E1"/>
+<rect x="166" y="124" width="14" height="14" fill="#4DD0E1"/>
+<rect x="180" y="124" width="14" height="14" fill="#4DD0E1"/>
+<rect x="40" y="138" width="14" height="14" fill="#4DD0E1"/>
+<rect x="54" y="138" width="14" height="14" fill="#4DD0E1"/>
+<rect x="82" y="138" width="14" height="14" fill="#4DD0E1"/>
+<rect x="152" y="138" width="14" height="14" fill="#4DD0E1"/>
+<rect x="180" y="138" width="14" height="14" fill="#4DD0E1"/>
+<rect x="194" y="138" width="14" height="14" fill="#4DD0E1"/>
+<rect x="40" y="152" width="14" height="14" fill="#4DD0E1"/>
+<rect x="54" y="152" width="14" height="14" fill="#4DD0E1"/>
+<rect x="82" y="152" width="14" height="14" fill="#4DD0E1"/>
+<rect x="152" y="152" width="14" height="14" fill="#4DD0E1"/>
+<rect x="180" y="152" width="14" height="14" fill="#4DD0E1"/>
+<rect x="194" y="152" width="14" height="14" fill="#4DD0E1"/>
+<rect x="68" y="166" width="14" height="14" fill="#4DD0E1"/>
+<rect x="82" y="166" width="14" height="14" fill="#4DD0E1"/>
+<rect x="96" y="166" width="14" height="14" fill="#4DD0E1"/>
+<rect x="110" y="166" width="14" height="14" fill="#4DD0E1"/>
+<rect x="124" y="166" width="14" height="14" fill="#4DD0E1"/>
+<rect x="138" y="166" width="14" height="14" fill="#4DD0E1"/>
+<rect x="152" y="166" width="14" height="14" fill="#4DD0E1"/>
+<rect x="166" y="166" width="14" height="14" fill="#4DD0E1"/>
+<rect x="68" y="180" width="14" height="14" fill="#4DD0E1"/>
+<rect x="82" y="180" width="14" height="14" fill="#4DD0E1"/>
+<rect x="152" y="180" width="14" height="14" fill="#4DD0E1"/>
+<rect x="166" y="180" width="14" height="14" fill="#4DD0E1"/>
+<rect x="68" y="194" width="14" height="14" fill="#4DD0E1"/>
+<rect x="82" y="194" width="14" height="14" fill="#4DD0E1"/>
+<rect x="152" y="194" width="14" height="14" fill="#4DD0E1"/>
+<rect x="166" y="194" width="14" height="14" fill="#4DD0E1"/>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.6s" fill="freeze"/>
+<rect x="230" y="40" width="380" height="130" rx="16" fill="#102A43"/>
+<path d="M 230 91.0 L 210 105.0 L 230 119.0 Z" fill="#102A43"/>
+<text x="254" y="82" font-family="monospace" font-size="17" fill="#4DD0E1">"She builds robots...</text>
+<text x="254" y="110" font-family="monospace" font-size="17" fill="#4DD0E1">...and I am one of them!"</text>
+<text x="254" y="142" font-family="monospace" font-size="12" fill="#90A4AE">- pixel-bot</text>
+</g>
+</svg>
