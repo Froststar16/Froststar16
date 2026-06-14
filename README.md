@@ -14,6 +14,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Froststar16/Froststar16/main/mascot-divider.svg" width="100%"/>
+</p>
 
 ### 🛠️ Tech Stack
 
