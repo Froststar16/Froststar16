@@ -1,0 +1,16 @@
+<svg width="100%" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Rithika Reddy - Robotics & Controls Engineer</title>
+<defs>
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#1e3c72"/>
+<stop offset="100%" stop-color="#2a5298"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="180" fill="url(#bg)"/>
+<path d="M0,140 C 200,110 400,170 600,140 C 800,110 1000,170 1200,140 L1200,180 L0,180 Z" fill="#ffffff" opacity="0.06"/>
+<g opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="0.1s" dur="0.8s" fill="freeze"/>
+<text x="600.0" y="82.0" text-anchor="middle" font-family="sans-serif" font-size="44" font-weight="600" fill="#ffffff">Rithika Reddy</text>
+<text x="600.0" y="120.0" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#cfe0ff">Robotics & Controls Engineer</text>
+</g>
+</svg>
