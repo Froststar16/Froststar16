@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Rithika%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Robotics%20%26%20Controls%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Froststar16/Froststar16/main/banner-header.svg" width="100%"/>
 </p>
 
 <p align="center">
@@ -12,12 +11,8 @@
 <p align="center">
   <a href="https://rithika-reddy.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/rithika-reddy-rondla/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rithikarondla16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Froststar16&style=for-the-badge&color=58A6FF&label=Profile+Views" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=2&section=header" width="100%"/>
 </p>
 
 <p align="center">
@@ -56,9 +51,7 @@
   <img src="https://img.shields.io/badge/Simulink-FF6F00?style=flat-square&logo=mathworks&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=2&section=header" width="100%"/>
-</p>
+---
 
 ### 🚀 Featured Projects
 
@@ -110,5 +103,5 @@ Nonlinear Model Predictive Control simulator for Virtual Train Coupling — desi
 <p align="center"><i>📍 New York City • 🔍 Open to robotics & controls internships (Fall 2026) and full-time roles starting 2027</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Froststar16/Froststar16/main/banner-footer.svg" width="100%"/>
 </p>
